@@ -1,8 +1,10 @@
 #include <iostream>
 
+using namespace std;
+
 int main()
 
 {
-	std::cout<<"Hello!!"<<std::endl;
+	cout<<"Hello!!"<<endl;
 	return 0;
 }
